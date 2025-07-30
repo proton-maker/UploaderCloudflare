@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://storage.bosmudasky.com/wp-content/uploads/2025/07/image.png" alt="UploaderCloudflareR2 Logo" width="400" />
+  <img src="https://storage.bosmudasky.com/wp-content/uploads/2025/07/image.png" alt="UploaderCloudflareR2 Logo" width="1000" />
 
   <br />
 
